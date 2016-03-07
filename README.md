@@ -18,5 +18,6 @@ A Java program simulating an airline check-in process.
 ![](/screenshots/AirlineCheckInSimulator.png?raw=true)
 
 Statistic data in the end
+
 ![](/screenshots/AirlineCheckInSimulator2.png?raw=true)
 
